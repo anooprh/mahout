@@ -19,3 +19,5 @@ mr/temp
 temp
 foo
 math-tests/
+*.ipr
+*.iws
